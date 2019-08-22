@@ -1,6 +1,6 @@
 # Image-Viewer :camera:
  
- This is a simple Image Viewer GUI which can zoom and crop images.
+ This is a simple Image Viewer GUI which can zoom :mag: and crop :scissors: images.
  This Project was made using Java in Netbeans IDE using swings.
  
  # DOWNLOAD
