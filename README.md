@@ -1,11 +1,11 @@
-# Image-Viewer
+# Image-Viewer :camera:
  
  This is a simple Image Viewer GUI which can zoom and crop images.
  This Project was made using Java in Netbeans IDE using swings.
  
  # DOWNLOAD
  
- Download This [Image Viewer]()
+ Download the [Image Viewer]() :+1:
  
  # INSTRUCTION
  
@@ -14,6 +14,6 @@
  
  # Thank You For Downloading The Project :smile:
  
- # :heart:
+ # :hearts:
 
  
