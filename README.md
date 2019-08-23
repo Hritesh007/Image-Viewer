@@ -5,7 +5,7 @@
  
  # DOWNLOAD
  
- Download the [Image Viewer](https://raw.githubusercontent.com/Hritesh007/Image-Viewer/master/dist/ImageViewer.jar) :+1:
+ Download the [Image Viewer](https://raw.githubusercontent.com/Hritesh007/Image-Viewer/master/dist/ImageViewer.jar)  :+1:
  
  # INSTRUCTION
  
