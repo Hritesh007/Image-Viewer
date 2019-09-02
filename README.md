@@ -27,7 +27,6 @@
 4.)Crop
 ![o6](https://user-images.githubusercontent.com/41838155/64104991-fae8f080-cd92-11e9-87cf-9a3a3d7c8e13.PNG)
 ![o7](https://user-images.githubusercontent.com/41838155/64104995-fc1a1d80-cd92-11e9-8350-15d65432d3af.PNG)
-
 5.) Save Cropped Image
 ![o9](https://user-images.githubusercontent.com/41838155/64105004-ffada480-cd92-11e9-8042-2aea1f4a9b75.PNG)
 6.)Horizontal flip
