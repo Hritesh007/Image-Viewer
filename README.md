@@ -33,6 +33,6 @@
  ![o11](https://user-images.githubusercontent.com/41838155/64105013-020ffe80-cd93-11e9-90bf-8f0608a7c25d.PNG)
 7.)Vertical Flip
  ![o12](https://user-images.githubusercontent.com/41838155/64105018-03d9c200-cd93-11e9-9db6-67f5c4b94449.PNG)
-8.) Edit and Save Image :hearts:
+8.) Edit and Save Image  :hearts:
  ![o13](https://user-images.githubusercontent.com/41838155/64105026-06d4b280-cd93-11e9-92f5-4421e1922c86.PNG)
  
