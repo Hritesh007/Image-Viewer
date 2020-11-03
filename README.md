@@ -1,21 +1,21 @@
 # Image-Viewer :camera:
- 
+
  This is a simple Image Viewer GUI which can zoom :mag: and crop :scissors: images.
  This Project was made using Java in Netbeans IDE using swings.
- 
+
  # DOWNLOAD
- 
+
  Download the [Image Viewer](https://raw.githubusercontent.com/Hritesh007/Image-Viewer/master/dist/ImageViewer.jar)  :+1:
- 
+
  # INSTRUCTION
- 
+
  To run this file,dowload [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) in your pc :computer:
  After that you can open the downloader file (ImageViewer.jar)
- 
+
  # Thank You For Downloading The Project :smile:
- 
+
  # :hearts:
- 
+
  # SCREENSHOT
 
 1.)Home Page
@@ -35,4 +35,3 @@
  ![o12](https://user-images.githubusercontent.com/41838155/64105018-03d9c200-cd93-11e9-9db6-67f5c4b94449.PNG)
 8.) Edit and Save Image  :hearts:
  ![o13](https://user-images.githubusercontent.com/41838155/64105026-06d4b280-cd93-11e9-92f5-4421e1922c86.PNG)
- 
